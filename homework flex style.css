@@ -70,7 +70,7 @@ table {
   border-radius: 50%;
 }
 .header h1 {
-  font-size: 1.9rem;
+  font-size: 2rem;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: bold;
   margin: 0;
@@ -128,7 +128,7 @@ table {
     width: 80px;
   }
   .header h1 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
   .content {
     flex-direction: column;
