@@ -52,13 +52,14 @@ table {
     margin: 0 auto;
     background-color: antiquewhite;
 }
-.header{
-    height: 100px;
-    margin: 0 auto;
-    display: flex;
-	align-items: center;
-	padding: 20px;
-	background-color: rgb(255, 255, 255);
+.header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 20px;
+  background-color: white;
+  margin-bottom: 30px;
 }
 .header img{
 	max-height: 100%;
@@ -101,8 +102,8 @@ table {
 	text-align: end;
 	line-height: 22px;
 }
-/* 基本設定 */
-body {
+
+.body {
   margin: 0;
   font-family: "Noto Sans TC", sans-serif;
   background-color: #fffaf4;
